@@ -1,4 +1,4 @@
-def somme(a,b):
+def produit(a,b):
 	return (a*b)
 class Personne:
 	def __init__(self,p,n):
